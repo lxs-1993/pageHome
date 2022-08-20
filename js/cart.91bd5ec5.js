@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["cart"],{b789:function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticStyle:{"text-align":"center"}},[t._v("购物车")])},r=[],a=n("5530"),u=n("a6f4"),i={setup:function(t,e){e.root;var n=Object(u["g"])({});return Object(a["a"])({},Object(u["h"])(n))}},o=i,s=n("2877"),l=Object(s["a"])(o,c,r,!1,null,"86dc0802",null);e["default"]=l.exports}}]);
+//# sourceMappingURL=cart.91bd5ec5.js.map
